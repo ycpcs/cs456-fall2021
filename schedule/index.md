@@ -31,15 +31,15 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 12  | **NO CLASS - Fall Break** | |
 > Oct 14  | **EXAM I PART 2 Discussion** | |
 > Oct 19  | **EXAM I PART 2 Writeup** | |
-> Oct 21  | Student Presentation | |
-> Oct 26  | Student Presentation | |
-> Oct 28  | Student Presentation | |
-> Nov 2   | Student Presentation | |
-> Nov 4   | Student Presentation | |
-> Nov 9   | Student Presentation | |
-> Nov 11  | Student Presentation | |
-> Nov 16  | Student Presentation | |
-> Nov 18  | Student Presentation | |
+> Oct 21  | *Facebook Data Mining* <br /> Alex Baldwin | |
+> Oct 26  | *AI Inequity* <br /> Jack Anderson | |
+> Oct 28  | *AI Ethics* <br /> Michael Feldman | |
+> Nov 2   | *Right to Repair* <br /> Brett Kearney | |
+> Nov 4   | *Australia's Orwellian App* <br /> David McHugh | |
+> Nov 9   | *Social Media Disinformation* <br /> Dylan Bieber | |
+> Nov 11  | *Women in Technology* <br /> Saul Sanjuan | |
+> Nov 16  | *Net Neutrality* <br /> Lucas Plaud | |
+> Nov 18  | *Open Source Software* <br /> Chase Traina | |
 > Nov 23  | Misc | |
 > Nov 25  | **NO CLASS - Thanksgiving Break** | |
 > Nov 30  | **EXAM 2 Discussion** | |

@@ -43,8 +43,8 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Nov 23  | Misc | |
 > Nov 25  | **NO CLASS - Thanksgiving Break** | |
 > Nov 30  | **EXAM 2 Discussion** | |
-> Dec 2   | **EXAM 2 Writeup** | |
-> Dec 7   | **Final Paper workday** | |
+> Dec 2   | Prof. Hake | |
+> Dec 7   | **EXAM 2 Writeup** | |
 
 
 <!--

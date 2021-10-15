@@ -31,7 +31,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 12  | **NO CLASS - Fall Break** | |
 > Oct 14  | **EXAM I PART 2 Discussion** | |
 > Oct 19  | **EXAM I PART 2 Writeup** | |
-> Oct 21  | *Facebook Data Mining* <br /> Alex Baldwin | |
+> Oct 21  | *Facebook Data Mining* <br /> Alex Baldwin | [The Key to Understanding Facebook's Current Crisis](https://www.youtube.com/watch?v=U4qooWtovhU) <br /> [Cambridge Analytica whistleblower: 'We spent $1m harvesting millions of Facebook profiles'](https://www.youtube.com/watch?v=FXdYSQ6nu-M)  (from 4:42-end) <br /> [What You Don’t Know About How Facebook Uses Your Data](https://www.nytimes.com/2018/04/11/technology/facebook-privacy-hearings.html) |
 > Oct 26  | *AI Inequity* <br /> Jack Anderson | |
 > Oct 28  | *AI Ethics* <br /> Michael Feldman | |
 > Nov 2   | *Right to Repair* <br /> Brett Kearney | |

@@ -32,7 +32,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Oct 14  | **EXAM I PART 2 Discussion** | |
 > Oct 19  | **EXAM I PART 2 Writeup** | |
 > Oct 21  | *Facebook Data Mining* <br /> Alex Baldwin | [The Key to Understanding Facebook's Current Crisis](https://www.youtube.com/watch?v=U4qooWtovhU) <br /> [Cambridge Analytica whistleblower: 'We spent $1m harvesting millions of Facebook profiles'](https://www.youtube.com/watch?v=FXdYSQ6nu-M)  (from 4:42-end) <br /> [What You Don’t Know About How Facebook Uses Your Data](https://www.nytimes.com/2018/04/11/technology/facebook-privacy-hearings.html) (can also be obtained via the Library)|
-> Oct 26  | *AI Inequity* <br /> Jack Anderson | |
+> Oct 26  | *AI Inequity* <br /> Jack Anderson | [At UN, robot Sophia joins meeting on artificial intelligence and sustainable development](https://news.un.org/en/story/2017/10/568292-un-robot-sophia-joins-meeting-artificial-intelligence-and-sustainable#.Wd58rRjMxmA) - be sure to watch the video <br /> [Moral Machine](https://www.moralmachine.net/) - watch the video and complete the "Start Judging" exercise <br /> [How Artificial Intelligence Can Deepen Racial and Economic Inequities](https://www.aclu.org/news/privacy-technology/how-artificial-intelligence-can-deepen-racial-and-economic-inequities/) |
 > Oct 28  | *AI Ethics* <br /> Michael Feldman | |
 > Nov 2   | *Right to Repair* <br /> Brett Kearney | |
 > Nov 4   | *Australia's Orwellian App* <br /> David McHugh | |
